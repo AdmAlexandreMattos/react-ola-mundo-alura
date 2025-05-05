@@ -19,6 +19,7 @@ export const Banner = () => {
           className={styles.circuloColorido}
           src={circuloColorido}
           aria-hidden={true}
+          alt="Circulo vazio."
         />
         <img
           className={styles.minhaFoto}
